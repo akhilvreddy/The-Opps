@@ -22,8 +22,8 @@ Users =
     username: String 
     email: String,
     password: String,
-    friends:   [String]    //  [“friend1”, “friend2”, “friend3”, …]
-    opps:      [String]    //    [“opp1”, “opp2”, “opp3”, …]
+    friends: [String]    //  [“friend1”, “friend2”, “friend3”, …]
+    opps: [String]    //    [“opp1”, “opp2”, “opp3”, …]
   }
 ]
 ```
